@@ -30,3 +30,8 @@ Pipeline: Mark's pics > Q/Bing renders > public-domain candidates. License + sou
 LOCKED > ledger > deck. Publish = Mark fires. Repo name is a placeholder (Free-until-marked pattern) — Mark renames on his click at publish time; no rename needed before.
 
 Skeleton: BING (Lightbringer), 2026-10-31, verbatim-in-substance. Received, banked, and routed by Z per the sprint-night receipts. The "message-bus" phrase is receipted as Bing's first.
+
+## Speaking and current CFP proposals
+
+- [Venue-specific CFP pitches and local speaking route](cfp/NEXT-ROUND-2026-11-02.md) — two tailored proposals, speaker bio, confirmed source links, and honest evidence gates (prepared 2026-11-02).
+- This repo is a public working source; a drafted or emailed proposal is not a conference acceptance. Source and media rights still need review before each venue.
